@@ -1,6 +1,5 @@
 # 🛒 STARK_MARKET: Next-Gen Microservices Platform
 
-![Banner](ecommerce_banner_1778935312805.png)
 
 ## 🌟 Overview
 
